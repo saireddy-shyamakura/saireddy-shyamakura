@@ -70,11 +70,6 @@ I build systems that handle scale, reduce compute, and make machine learning pra
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saireddy-shyamakura&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=saireddy-shyamakura&layout=compact" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saireddy-shyamakura" />
 </p>
 
