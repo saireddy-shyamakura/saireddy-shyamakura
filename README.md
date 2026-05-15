@@ -43,7 +43,7 @@ I build systems that handle scale, reduce compute, and make machine learning pra
 - PyTorch, OpenCV, NumPy, Pandas, Matplotlib  
 
 **Infra & Tools**
-- AWS, Linux, Git  
+- AWS, Linux, Git, Self-Hosting  
 
 **Database**
 - MySQL, PostgreSQL
