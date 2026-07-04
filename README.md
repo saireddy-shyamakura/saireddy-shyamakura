@@ -56,6 +56,7 @@ Building scalable backend systems, cloud-native infrastructure, and distributed 
 ### Messaging
 
 - Apache Kafka
+- MQTT
 
 ### Cloud & DevOps
 
@@ -82,20 +83,6 @@ Building scalable backend systems, cloud-native infrastructure, and distributed 
 
 - **Email:** sai.reddy.work@outlook.com
 - **LinkedIn:** https://www.linkedin.com/in/sai-reddy-shyamakura-617512220/
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saireddy-shyamakura"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=saireddy-shyamakura&show_icons=true&theme=transparent"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saireddy-shyamakura&layout=compact&theme=transparent"/>
-
-</p>
 
 ---
 
