@@ -75,7 +75,7 @@ Building scalable backend systems, cloud-native infrastructure, and distributed 
 - Event-Driven Architecture
 - Database Internals
 - System Design
-- Go
+- Java & SpringBoot
 
 ---
 
